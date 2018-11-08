@@ -1,0 +1,68 @@
+body {
+    background-image: url("https://cdn.hipwallpaper.com/i/10/95/EGMKv6.jpg");
+    text-align: center;
+}
+h1 {
+    font-family: 'Pattaya', sans-serif;
+    color: Lightgrey;
+    font-weight: bold;
+}
+h2 {
+    font-family: 'Fira Sans', sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    color: LavenderBlush;
+}
+h3 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: oldlace;
+    font-size: 27px;
+}
+img {
+    height: 400px;
+    width: 400px;
+    opacity: 0.6; 
+    border-left-style: double;
+    border-right-style: double;
+    border-top-style: outset;
+    border-top-color: Purple;
+    border-right-color: violet;
+    border-left-color: plum;
+    border-bottom-color: pink;
+    border-bottom-style: outset;
+    border-radius: 300px;
+    border-width: 30px;
+}
+.Interview {
+    background-color: rgba(50, 39, 39, 0.7);
+}
+span {
+       text-align: center;
+        float: left;
+}
+h4 {
+    font-family: 'KoHo', sans-serif;
+    font-size: 25px;
+    color: WhiteSmoke;
+}
+ol {
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+    font-weight: bold;
+    opacity: 0.5;
+    color: GhostWhite;
+}
+ul {
+      font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+    font-weight: bold;
+    opacity: 0.5;
+    color: GhostWhite;
+}
+p {
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+    font-weight: bold;
+    opacity: 0.5;
+    color: GhostWhite;
+}
